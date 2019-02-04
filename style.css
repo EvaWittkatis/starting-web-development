@@ -86,6 +86,10 @@ li {
     padding: 10px; 
 }
 
+i {
+    margin: 10px;
+}
+
 .list-movies {
     width:50%;
     margin-top: 30px;
